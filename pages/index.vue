@@ -1,7 +1,13 @@
+<script setup lang = "ts">
+    useHead({
+        title: 'Lerasbarang | Lembaga Remaja Bebas Narkoba'
+    })
+</script>
+
 <template>
     <div class = "w-full h-full min-h-screen flex flex-col">
-        <div class = "relative m-8 mb-0 ">
-            <img src = "/assets/images/cover.webp" class = "rounded-xl shadow-xl max-sm:block hidden brightness-50">
+        <div class = "relative m-8 mb-0 max-sm:block hidden">
+            <img src = "/assets/images/cover.webp" class = "rounded-xl shadow-xl brightness-50">
         
             <div class = "absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
                 <img src = "/assets/images/logo.png" class = "w-64">
@@ -45,7 +51,7 @@
         <img src = "/assets/images/blob.png" class = "absolute top-[200%] opacity-60 -translate-y-full left-0 rotate-[90deg] -z-[1]">
         <img src = "/assets/images/blob.png" class = "absolute top-[200%] opacity-60 left-0 rotate-[90deg] -z-[1] -scale-x-[1]">
 
-        <div class = "w-full h-full px-16 mb-16 lg:mt-16 text-gray-700 flex flex-col gap-8">
+        <div class = "w-full h-full px-8 lg:px-16 mb-16 lg:mt-16 text-gray-700 flex flex-col gap-8">
             <h1 class = "text-4xl font-medium text-center">Program Kerja</h1>
         
             <div class = "grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -75,7 +81,7 @@
             </div>
         </div>
 
-        <div class = "w-full h-full px-16 mb-16 text-gray-700 flex flex-col gap-8">
+        <div class = "w-full h-full px-8 lg:px-16 mb-16 text-gray-700 flex flex-col gap-8">
             <h1 class = "text-4xl font-medium text-center">Layanan Eksternal</h1>
 
             <div class = "grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -91,7 +97,7 @@
             </div>
         </div>
 
-        <div class = "w-full h-full px-16 mb-16 text-gray-700 flex flex-col gap-8">
+        <div class = "w-full h-full px-8 lg:px-16 mb-16 text-gray-700 flex flex-col gap-8">
             <h1 class = "text-4xl font-medium text-center">Tim Lerasbarang</h1>
 
             <div class = "grid grid-cols-1 lg:grid-cols-3 gap-8">
