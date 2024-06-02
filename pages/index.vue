@@ -54,13 +54,13 @@
         <div class = "w-full h-full px-8 lg:px-16 mb-16 lg:mt-16 text-gray-700 flex flex-col gap-8">
             <h1 class = "text-4xl font-medium text-center">Konten Terbaru</h1>
 
-            <div class = "w-full h-screen">
+            <div class = "w-full h-[50vh] lg:h-screen">
                 <iframe class = "w-full h-full rounded-xl shadow-lg" src="https://www.youtube.com/embed/WZTVfkYYxTE?si=BqcgOQmmKv-8TPlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
             <div class = "flex flex-col lg:flex-row gap-8">
-                <div class = "border border-slate-300 p-8 rounded-lg shadow-md flex gap-8 items-center">
-                    <img src = "https://cdn.britannica.com/50/123550-050-885369B3/Prozac-pills.jpg" class = "w-32 h-32 rounded-md object-cover">
+                <div class = "border border-slate-300 p-8 rounded-lg shadow-md flex gap-8 items-center max-sm:flex-col flex-row">
+                    <img src = "https://cdn.britannica.com/50/123550-050-885369B3/Prozac-pills.jpg" class = "w-32 h-32 max-sm:w-full max-sm:h-64 rounded-md object-cover">
 
                     <div class = "flex flex-col justify-center gap-4">
                         <h3 class = "font-semibold text-xl">5 Jenis Narkoba yang Sering Disalahgunakan</h3>
@@ -76,8 +76,8 @@
                     </div>
                 </div>
 
-                <div class = "border border-slate-300 p-8 rounded-lg shadow-md flex gap-8 items-center">
-                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxefLPHZUuHyjuqsRV95EnKxKTHs6hac_R8g&s" class = "w-32 h-32 rounded-md object-cover">
+                <div class = "border border-slate-300 p-8 rounded-lg shadow-md flex gap-8 items-center max-sm:flex-col flex-row">
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxefLPHZUuHyjuqsRV95EnKxKTHs6hac_R8g&s" class = "w-32 h-32 max-sm:w-full max-sm:h-64 rounded-md object-cover">
 
                     <div class = "flex flex-col justify-center gap-4">
                         <h3 class = "font-semibold text-xl">Ciri-ciri Pergaulan yang Melibatkan Narkoba</h3>
