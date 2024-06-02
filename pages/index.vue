@@ -52,6 +52,50 @@
         <img src = "/assets/images/blob.png" class = "absolute top-[200%] opacity-60 left-0 rotate-[90deg] -z-[1] -scale-x-[1]">
 
         <div class = "w-full h-full px-8 lg:px-16 mb-16 lg:mt-16 text-gray-700 flex flex-col gap-8">
+            <h1 class = "text-4xl font-medium text-center">Konten Terbaru</h1>
+
+            <div class = "w-full h-screen">
+                <iframe class = "w-full h-full rounded-xl shadow-lg" src="https://www.youtube.com/embed/WZTVfkYYxTE?si=BqcgOQmmKv-8TPlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+            <div class = "flex flex-col lg:flex-row gap-8">
+                <div class = "border border-slate-300 p-8 rounded-lg shadow-md flex gap-8 items-center">
+                    <img src = "https://cdn.britannica.com/50/123550-050-885369B3/Prozac-pills.jpg" class = "w-32 h-32 rounded-md object-cover">
+
+                    <div class = "flex flex-col justify-center gap-4">
+                        <h3 class = "font-semibold text-xl">5 Jenis Narkoba yang Sering Disalahgunakan</h3>
+                        <span class = "text-sm opacity-70">Narkoba pada dasarnya merupakan suatu Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur optio atque eos, rem dolor tempore ipsum porro, nam, excepturi id totam iure sed provident laboriosam dignissimos nemo cupiditate rerum vero.</span>
+
+                        <div class = "flex gap-2 opacity-70 items-center">
+                            <PhosphorIconCalendar size = "24"/>
+                            <span>24 Jan 2024</span>
+
+                            <PhosphorIconUser size = "24" class = "ml-6"/>
+                            <span>Admin</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class = "border border-slate-300 p-8 rounded-lg shadow-md flex gap-8 items-center">
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxefLPHZUuHyjuqsRV95EnKxKTHs6hac_R8g&s" class = "w-32 h-32 rounded-md object-cover">
+
+                    <div class = "flex flex-col justify-center gap-4">
+                        <h3 class = "font-semibold text-xl">Ciri-ciri Pergaulan yang Melibatkan Narkoba</h3>
+                        <span class = "text-sm opacity-70">Tentunya sebgai remaja, Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, facere. Veniam perspiciatis saepe officia quia quos. Animi, esse dolorum aliquam quas iste odio minus. Culpa vero repellat nostrum repellendus dicta.</span>
+
+                        <div class = "flex gap-2 opacity-70 items-center">
+                            <PhosphorIconCalendar size = "24"/>
+                            <span>27 Jan 2024</span>
+
+                            <PhosphorIconUser size = "24" class = "ml-6"/>
+                            <span>Admin</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class = "w-full h-full px-8 lg:px-16 mb-16 text-gray-700 flex flex-col gap-8">
             <h1 class = "text-4xl font-medium text-center">Program Kerja</h1>
         
             <div class = "grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -63,13 +107,13 @@
                     </div>
                 </div>
 
-                <div class = "border border-slate-300 rounded-lg shadow-md bg-white">
+                <NuxtLink class = "border border-slate-300 rounded-lg shadow-md bg-white" to = "/forum">
                     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8aYTEpnn0R2MYJjvgGHi_2TY-lrp-2Dz-g&s" class = "rounded-t-lg select-none h-64">
                     <div class = "p-8 relative flex flex-col gap-4">
                         <h3 class = "text-2xl font-medium">Web Forum</h3>
                         <span>Lerasbarang membuka forum diskusi online bagi para remaja untuk berdiskusi mengenai masalah narkoba.</span>
                     </div>
-                </div>
+                </NuxtLink>
 
                 <div class = "border border-slate-300 rounded-lg shadow-md bg-white">
                     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ0F4eN4SasrzAUgk6M7rzuMswyrlRV2QaUQ&s" class = "rounded-t-lg select-none h-64 w-full object-cover">
