@@ -148,7 +148,7 @@
                 <div class = "w-full h-full flex flex-col rounded-xl">
                     <div class = "w-full h-[132px] relative bg-[#8065f9] rounded-t-xl shadow-lg">
                         <div class = "w-[164px] h-[164px] bg-slate-50 border border-slate-300 rounded-full absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 shadow-md bg-slate-50">
-                            <img alt = "Profile" src= "/assets/images/dicky.png" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
+                            <img alt = "Profile" src= "/assets/images/niko.jpeg" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
                         </div>
                     </div>
                     
@@ -161,7 +161,7 @@
                 <div class = "w-full h-full flex flex-col rounded-xl">
                     <div class = "w-full h-[132px] relative bg-[#8065f9] rounded-t-xl shadow-lg">
                         <div class = "w-[164px] h-[164px] bg-slate-50 border border-slate-300 rounded-full absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 shadow-md bg-slate-50">
-                            <img alt = "Profile" src= "/assets/images/dicky.png" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
+                            <img alt = "Profile" src= "/assets/images/timoti.jpeg" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
                         </div>
                     </div>
                     
@@ -174,7 +174,7 @@
                 <div class = "w-full h-full flex flex-col rounded-xl">
                     <div class = "w-full h-[132px] relative bg-[#8065f9] rounded-t-xl shadow-lg">
                         <div class = "w-[164px] h-[164px] bg-slate-50 border border-slate-300 rounded-full absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 shadow-md bg-slate-50">
-                            <img alt = "Profile" src= "/assets/images/dicky.png" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
+                            <img alt = "Profile" src= "/assets/images/manuel.jpeg" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
                         </div>
                     </div>
                     
@@ -187,7 +187,7 @@
                 <div class = "w-full h-full flex flex-col rounded-xl">
                     <div class = "w-full h-[132px] relative bg-[#8065f9] rounded-t-xl shadow-lg">
                         <div class = "w-[164px] h-[164px] bg-slate-50 border border-slate-300 rounded-full absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 shadow-md bg-slate-50">
-                            <img alt = "Profile" src= "/assets/images/dicky.png" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
+                            <img alt = "Profile" src= "/assets/images/marino.jpeg" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
                         </div>
                     </div>
                     
@@ -200,7 +200,7 @@
                 <div class = "w-full h-full flex flex-col rounded-xl">
                     <div class = "w-full h-[132px] relative bg-[#8065f9] rounded-t-xl shadow-lg">
                         <div class = "w-[164px] h-[164px] bg-slate-50 border border-slate-300 rounded-full absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 shadow-md bg-slate-50">
-                            <img alt = "Profile" src= "/assets/images/dicky.png" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
+                            <img alt = "Profile" src= "/assets/images/naito.jpeg" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
                         </div>
                     </div>
                     
@@ -213,7 +213,7 @@
                 <div class = "w-full h-full flex flex-col rounded-xl">
                     <div class = "w-full h-[132px] relative bg-[#8065f9] rounded-t-xl shadow-lg">
                         <div class = "w-[164px] h-[164px] bg-slate-50 border border-slate-300 rounded-full absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 shadow-md bg-slate-50">
-                            <img alt = "Profile" src= "/assets/images/dicky.png" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
+                            <img alt = "Profile" src= "/assets/images/grevan.jpeg" class = "w-[164px] h-[200px] object-contain h-auto absolute bottom-0 rounded-b-full">
                         </div>
                     </div>
                     
@@ -245,7 +245,7 @@
                     
                     <div class = "w-full h-max px-8 pb-8 rounded-b-xl pt-[98px] text-center border border-slate-300">
                         <h2 class = "text-2xl font-semibold">Dicky Darma</h2>
-                        <p class = "text-center">Korordinator Divisi Dana</p>
+                        <p class = "text-center">Koordinator Divisi Dana</p>
                     </div>
                 </div>
             </div>
